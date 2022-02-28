@@ -1,0 +1,39 @@
+.navBar{
+    width: 80%;
+    margin: auto;
+    padding: 20px 0 20px 0;
+}
+.navBar img{
+    width: 38px;
+    height: 47.5px;
+    
+}
+.navBar span{
+    display: block;
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight:700;
+    color: #2947A9;
+    margin-left: 50px;
+    margin-top: -45px;
+    
+}
+.logo-Text{
+    float: left;
+}
+.navLinks{
+    float: right;
+    margin-top: 15px;
+    
+}
+.navLinks a{
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #14171F;
+
+}
+.navLinks a:hover{
+    color:#F9995D;
+}

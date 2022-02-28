@@ -1,0 +1,31 @@
+.aboutUs{
+    width: 80%;
+    margin: 50px auto 150px auto;
+    display: flex;
+}
+.aboutUs img{
+    width: 800px;
+    height: 600px;
+}
+.aboutText{
+    margin-top: 60px;
+    margin-left: -100px;
+    /* width: 490px; */
+    height: 400px;
+    color: white;
+    background-color: #2947A9;
+    padding: 40px 30px 40px 25px;
+    box-sizing: border-box;
+}
+.aboutText p{
+    font-size: small;
+}
+.aboutText button{
+    margin-top: 50px;
+    color: #2947A9;
+    width: 150px;
+    font-size: 12px;
+    padding: 10px;
+    border-radius: 3px;
+    border: none;
+}

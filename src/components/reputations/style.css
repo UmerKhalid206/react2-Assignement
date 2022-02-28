@@ -1,0 +1,39 @@
+h4{
+    text-align: center;
+    font-size: 36px;
+    margin-top: -20px;
+    
+}
+.cards{
+    width: 65%;
+    margin: 0 auto 60px auto;
+    display:flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    
+}
+.card{
+     width: 250px;
+    /* height: 200px;  */
+    border: 1px solid #E0E3EB;
+    border-radius: 4px;
+    padding: 20px 0px 15px 10px;
+    /* margin: 0 60px 0 0; */
+    
+}
+
+.card img{
+    width: 30px;
+    height: 30px;
+}
+.cardHead{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.description{
+    color: #858EAD;
+    font-size: smaller;
+    
+}

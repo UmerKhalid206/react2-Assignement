@@ -1,0 +1,32 @@
+.services{
+    margin-top: -30px;
+    background: #F6F8F7;
+    
+}
+
+h4{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 36px;
+}
+.servicesCards{
+    width: 60%;
+    margin: 0 auto 60px auto;
+    display:flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.whiteCard{
+    width: 200px;
+    /* padding-left: 50px; */
+    background-color: white;
+    box-sizing: border-box;
+    /* display: flex;
+    justify-content: center;
+    align-content: center; */
+}
+.whiteCard img{
+    padding-bottom: 15px;
+    border-bottom: 2px solid #E0E3EB;
+}
